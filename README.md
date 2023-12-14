@@ -1,6 +1,3 @@
-Certainly! Here is the Markdown code for the README:
-
-```markdown
 # Project PWD Docker Compose Setup
 
 ## Step 1: Docker Compose File for the PWD Project from Github
